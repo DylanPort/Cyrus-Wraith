@@ -1,0 +1,14 @@
+{"level":"error","message":"Login error: Waiting for selector `input[type=\"password\"]` failed: Waiting failed: 30000ms exceeded","timestamp":"2024-11-14T13:10:13.061Z"}
+{"level":"error","message":"Main loop error: Login failed","timestamp":"2024-11-14T13:10:13.392Z"}
+{"level":"error","message":"Login error: Waiting for selector `input[type=\"password\"]` failed: Waiting failed: 30000ms exceeded","timestamp":"2024-11-14T13:14:21.193Z"}
+{"level":"error","message":"Main loop error: Login failed","timestamp":"2024-11-14T13:14:21.195Z"}
+{"level":"error","message":"Login error: Waiting for selector `input[type=\"password\"]` failed: Waiting failed: 30000ms exceeded","timestamp":"2024-11-14T13:17:13.368Z"}
+{"level":"error","message":"Main loop error: Login failed","timestamp":"2024-11-14T13:17:13.370Z"}
+{"level":"error","message":"Login error: Waiting for selector `input[type=\"password\"]` failed: Waiting failed: 30000ms exceeded","timestamp":"2024-11-14T13:19:06.505Z"}
+{"level":"error","message":"Main loop error: Login failed","timestamp":"2024-11-14T13:19:06.510Z"}
+{"level":"error","message":"Login error: Failed to execute 'querySelectorAll' on 'Document': 'div[role=\"button\"]:has-text(\"Next\")' is not a valid selector.\nre (pptr:internal:3:12826)\nIe (pptr:internal:3:13100)\npptr:evaluateHandle;PQueryHandler.queryOne%20(C%3A%5CUsers%5Csalva%5CDocuments%5CCyrus%20Wraith%5Cnode_modules%5Cpuppeteer-core%5Clib%5Ccjs%5Cpuppeteer%5Ccommon%5CQueryHandler.js%3A130%3A73):2:16","timestamp":"2024-11-14T13:31:36.225Z"}
+{"level":"error","message":"Main loop error: Login failed","timestamp":"2024-11-14T13:31:36.842Z"}
+{"level":"error","message":"Login error: Waiting for selector `input[name=\"password\"]` failed: Waiting failed: 30000ms exceeded","timestamp":"2024-11-14T13:36:20.098Z"}
+{"level":"error","message":"Main loop error: Login failed","timestamp":"2024-11-14T13:36:20.754Z"}
+{"level":"error","message":"Error posting thread: Cannot read properties of null (reading 'click')","timestamp":"2024-11-14T14:03:38.822Z"}
+{"level":"error","message":"Main loop error: Cannot read properties of undefined (reading 'lastInteractionTime')","timestamp":"2024-11-14T14:03:44.728Z"}

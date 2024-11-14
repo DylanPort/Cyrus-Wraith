@@ -1,0 +1,131 @@
+{"level":"info","message":"Starting Cyrus Wraith AI Twitter bot...","timestamp":"2024-11-14T13:09:24.559Z"}
+{"level":"info","message":"Starting login process...","timestamp":"2024-11-14T13:09:26.245Z"}
+{"level":"info","message":"Email entered","timestamp":"2024-11-14T13:09:38.312Z"}
+{"level":"error","message":"Login error: Waiting for selector `input[type=\"password\"]` failed: Waiting failed: 30000ms exceeded","timestamp":"2024-11-14T13:10:13.061Z"}
+{"level":"error","message":"Main loop error: Login failed","timestamp":"2024-11-14T13:10:13.392Z"}
+{"level":"info","message":"Starting Cyrus Wraith AI Twitter bot...","timestamp":"2024-11-14T13:13:33.188Z"}
+{"level":"info","message":"Starting login process...","timestamp":"2024-11-14T13:13:34.476Z"}
+{"level":"info","message":"Email entered","timestamp":"2024-11-14T13:13:46.566Z"}
+{"level":"error","message":"Login error: Waiting for selector `input[type=\"password\"]` failed: Waiting failed: 30000ms exceeded","timestamp":"2024-11-14T13:14:21.193Z"}
+{"level":"error","message":"Main loop error: Login failed","timestamp":"2024-11-14T13:14:21.195Z"}
+{"level":"info","message":"Starting Cyrus Wraith AI Twitter bot...","timestamp":"2024-11-14T13:16:21.302Z"}
+{"level":"info","message":"Starting login process...","timestamp":"2024-11-14T13:16:22.404Z"}
+{"level":"info","message":"Email entered","timestamp":"2024-11-14T13:16:38.604Z"}
+{"level":"error","message":"Login error: Waiting for selector `input[type=\"password\"]` failed: Waiting failed: 30000ms exceeded","timestamp":"2024-11-14T13:17:13.368Z"}
+{"level":"error","message":"Main loop error: Login failed","timestamp":"2024-11-14T13:17:13.370Z"}
+{"level":"info","message":"Starting Cyrus Wraith AI Twitter bot...","timestamp":"2024-11-14T13:18:18.055Z"}
+{"level":"info","message":"Starting login process...","timestamp":"2024-11-14T13:18:18.532Z"}
+{"level":"info","message":"Email entered","timestamp":"2024-11-14T13:18:31.874Z"}
+{"level":"error","message":"Login error: Waiting for selector `input[type=\"password\"]` failed: Waiting failed: 30000ms exceeded","timestamp":"2024-11-14T13:19:06.505Z"}
+{"level":"error","message":"Main loop error: Login failed","timestamp":"2024-11-14T13:19:06.510Z"}
+{"level":"info","message":"Starting Cyrus Wraith AI Twitter bot...","timestamp":"2024-11-14T13:31:18.054Z"}
+{"level":"info","message":"Starting login process...","timestamp":"2024-11-14T13:31:19.506Z"}
+{"level":"info","message":"Waiting for email input...","timestamp":"2024-11-14T13:31:29.237Z"}
+{"level":"info","message":"Email entered","timestamp":"2024-11-14T13:31:34.208Z"}
+{"level":"error","message":"Login error: Failed to execute 'querySelectorAll' on 'Document': 'div[role=\"button\"]:has-text(\"Next\")' is not a valid selector.\nre (pptr:internal:3:12826)\nIe (pptr:internal:3:13100)\npptr:evaluateHandle;PQueryHandler.queryOne%20(C%3A%5CUsers%5Csalva%5CDocuments%5CCyrus%20Wraith%5Cnode_modules%5Cpuppeteer-core%5Clib%5Ccjs%5Cpuppeteer%5Ccommon%5CQueryHandler.js%3A130%3A73):2:16","timestamp":"2024-11-14T13:31:36.225Z"}
+{"level":"error","message":"Main loop error: Login failed","timestamp":"2024-11-14T13:31:36.842Z"}
+{"level":"info","message":"Starting Cyrus Wraith AI Twitter bot...","timestamp":"2024-11-14T13:35:22.091Z"}
+{"level":"info","message":"Starting login process...","timestamp":"2024-11-14T13:35:23.187Z"}
+{"level":"info","message":"Waiting for email input...","timestamp":"2024-11-14T13:35:32.523Z"}
+{"level":"info","message":"Email entered","timestamp":"2024-11-14T13:35:36.363Z"}
+{"level":"info","message":"Clicking next...","timestamp":"2024-11-14T13:35:38.366Z"}
+{"level":"info","message":"Entering username for verification...","timestamp":"2024-11-14T13:35:43.400Z"}
+{"level":"info","message":"Waiting for password input...","timestamp":"2024-11-14T13:35:50.091Z"}
+{"level":"error","message":"Login error: Waiting for selector `input[name=\"password\"]` failed: Waiting failed: 30000ms exceeded","timestamp":"2024-11-14T13:36:20.098Z"}
+{"level":"error","message":"Main loop error: Login failed","timestamp":"2024-11-14T13:36:20.754Z"}
+{"level":"info","message":"Starting Cyrus Wraith AI Twitter bot...","timestamp":"2024-11-14T13:40:53.788Z"}
+{"level":"info","message":"Starting login process...","timestamp":"2024-11-14T13:40:54.965Z"}
+{"level":"info","message":"Waiting for email input...","timestamp":"2024-11-14T13:41:05.107Z"}
+{"level":"info","message":"Email entered","timestamp":"2024-11-14T13:41:09.080Z"}
+{"level":"info","message":"Clicking next...","timestamp":"2024-11-14T13:41:11.086Z"}
+{"level":"info","message":"Entering username for verification...","timestamp":"2024-11-14T13:41:16.131Z"}
+{"level":"info","message":"Waiting for password input...","timestamp":"2024-11-14T13:41:21.734Z"}
+{"level":"info","message":"Password entered","timestamp":"2024-11-14T13:41:23.984Z"}
+{"level":"info","message":"Login success: true","timestamp":"2024-11-14T13:41:36.037Z"}
+{"level":"info","message":"Starting tweet posting process...","timestamp":"2024-11-14T13:41:59.894Z"}
+{"level":"info","message":"Tweet content entered","timestamp":"2024-11-14T13:42:19.273Z"}
+{"level":"info","message":"Tweet posted successfully","timestamp":"2024-11-14T13:42:23.495Z"}
+{"level":"info","message":"Starting Cyrus Wraith AI Twitter bot...","timestamp":"2024-11-14T14:01:41.248Z"}
+{"level":"info","message":"Starting login process...","timestamp":"2024-11-14T14:01:42.709Z"}
+{"level":"info","message":"Waiting for email input...","timestamp":"2024-11-14T14:01:51.691Z"}
+{"level":"info","message":"Email entered","timestamp":"2024-11-14T14:01:55.541Z"}
+{"level":"info","message":"Clicking next...","timestamp":"2024-11-14T14:01:57.542Z"}
+{"level":"info","message":"Entering username for verification...","timestamp":"2024-11-14T14:02:02.580Z"}
+{"level":"info","message":"Waiting for password input...","timestamp":"2024-11-14T14:02:08.102Z"}
+{"level":"info","message":"Password entered","timestamp":"2024-11-14T14:02:10.307Z"}
+{"level":"info","message":"Login success: true","timestamp":"2024-11-14T14:02:22.356Z"}
+{"level":"info","message":"Starting thread posting process...","timestamp":"2024-11-14T14:03:22.410Z"}
+{"level":"info","message":"Thread part 1 entered","timestamp":"2024-11-14T14:03:37.813Z"}
+{"level":"error","message":"Error posting thread: Cannot read properties of null (reading 'click')","timestamp":"2024-11-14T14:03:38.822Z"}
+{"level":"error","message":"Main loop error: Cannot read properties of undefined (reading 'lastInteractionTime')","timestamp":"2024-11-14T14:03:44.728Z"}
+{"level":"info","message":"Starting Cyrus Wraith AI Twitter bot...","timestamp":"2024-11-14T14:17:25.327Z"}
+{"level":"info","message":"Starting login process...","timestamp":"2024-11-14T14:17:26.353Z"}
+{"level":"info","message":"Waiting for email input...","timestamp":"2024-11-14T14:17:34.571Z"}
+{"level":"info","message":"Email entered","timestamp":"2024-11-14T14:17:38.249Z"}
+{"level":"info","message":"Clicking next...","timestamp":"2024-11-14T14:17:40.255Z"}
+{"level":"info","message":"Entering username for verification...","timestamp":"2024-11-14T14:17:45.280Z"}
+{"level":"info","message":"Waiting for password input...","timestamp":"2024-11-14T14:17:50.765Z"}
+{"level":"info","message":"Password entered","timestamp":"2024-11-14T14:17:52.908Z"}
+{"level":"info","message":"Login success: true","timestamp":"2024-11-14T14:18:04.942Z"}
+{"level":"info","message":"Starting thread posting process...","timestamp":"2024-11-14T14:18:34.729Z"}
+{"level":"info","message":"Thread part 1 entered","timestamp":"2024-11-14T14:18:51.360Z"}
+{"level":"info","message":"Thread part 2 entered","timestamp":"2024-11-14T14:19:11.307Z"}
+{"level":"info","message":"Thread part 3 entered","timestamp":"2024-11-14T14:19:31.521Z"}
+{"level":"info","message":"Thread part 4 entered","timestamp":"2024-11-14T14:19:52.114Z"}
+{"level":"info","message":"Thread part 5 entered","timestamp":"2024-11-14T14:20:13.334Z"}
+{"level":"info","message":"Thread part 6 entered","timestamp":"2024-11-14T14:20:34.813Z"}
+{"level":"info","message":"Thread part 7 entered","timestamp":"2024-11-14T14:20:55.821Z"}
+{"level":"info","message":"Thread part 8 entered","timestamp":"2024-11-14T14:21:17.588Z"}
+{"level":"info","message":"Thread part 9 entered","timestamp":"2024-11-14T14:21:39.487Z"}
+{"level":"info","message":"Thread part 10 entered","timestamp":"2024-11-14T14:22:03.232Z"}
+{"level":"info","message":"Thread part 11 entered","timestamp":"2024-11-14T14:22:29.014Z"}
+{"level":"info","message":"Thread part 12 entered","timestamp":"2024-11-14T14:22:52.813Z"}
+{"level":"info","message":"Thread part 13 entered","timestamp":"2024-11-14T14:23:16.347Z"}
+{"level":"info","message":"Thread part 14 entered","timestamp":"2024-11-14T14:23:40.312Z"}
+{"level":"info","message":"Thread part 15 entered","timestamp":"2024-11-14T14:23:46.998Z"}
+{"level":"info","message":"Thread posted successfully","timestamp":"2024-11-14T14:23:51.070Z"}
+{"level":"info","message":"Checking timeline for interactions...","timestamp":"2024-11-14T14:23:54.071Z"}
+{"level":"info","message":"Starting Cyrus Wraith AI Twitter bot...","timestamp":"2024-11-14T14:35:13.250Z"}
+{"level":"info","message":"Starting login process...","timestamp":"2024-11-14T14:35:14.619Z"}
+{"level":"info","message":"Waiting for email input...","timestamp":"2024-11-14T14:35:23.653Z"}
+{"level":"info","message":"Email entered","timestamp":"2024-11-14T14:35:27.802Z"}
+{"level":"info","message":"Clicking next...","timestamp":"2024-11-14T14:35:29.808Z"}
+{"level":"info","message":"Entering username for verification...","timestamp":"2024-11-14T14:35:34.830Z"}
+{"level":"info","message":"Waiting for password input...","timestamp":"2024-11-14T14:35:40.318Z"}
+{"level":"info","message":"Password entered","timestamp":"2024-11-14T14:35:42.477Z"}
+{"level":"info","message":"Login success: true","timestamp":"2024-11-14T14:35:54.523Z"}
+{"level":"info","message":"Starting thread posting process...","timestamp":"2024-11-14T14:36:33.385Z"}
+{"level":"info","message":"Thread part 1 entered","timestamp":"2024-11-14T14:36:49.799Z"}
+{"level":"info","message":"Thread part 2 entered","timestamp":"2024-11-14T14:37:05.367Z"}
+{"level":"info","message":"Thread part 3 entered","timestamp":"2024-11-14T14:37:26.350Z"}
+{"level":"info","message":"Thread part 4 entered","timestamp":"2024-11-14T14:37:39.100Z"}
+{"level":"info","message":"Thread part 5 entered","timestamp":"2024-11-14T14:37:53.572Z"}
+{"level":"info","message":"Thread posted successfully","timestamp":"2024-11-14T14:37:57.660Z"}
+{"level":"info","message":"Checking timeline for interactions...","timestamp":"2024-11-14T14:38:00.671Z"}
+{"level":"info","message":"Mood updated to neutral (intensity: 0.30313030584947187) ","timestamp":"2024-11-14T14:38:14.337Z"}
+{"level":"info","message":"Starting login process...","timestamp":"2024-11-14T14:57:30.749Z"}
+{"level":"info","message":"Waiting for email input...","timestamp":"2024-11-14T14:57:39.132Z"}
+{"level":"info","message":"Email entered","timestamp":"2024-11-14T14:57:42.787Z"}
+{"level":"info","message":"Clicking next...","timestamp":"2024-11-14T14:57:44.793Z"}
+{"level":"info","message":"Entering username for verification...","timestamp":"2024-11-14T14:57:49.822Z"}
+{"level":"info","message":"Waiting for password input...","timestamp":"2024-11-14T14:57:55.302Z"}
+{"level":"info","message":"Password entered","timestamp":"2024-11-14T14:57:57.451Z"}
+{"level":"info","message":"Login success: true","timestamp":"2024-11-14T14:58:09.491Z"}
+{"level":"info","message":"Checking timeline for interactions...","timestamp":"2024-11-14T14:58:09.492Z"}
+{"level":"info","message":"Liked a tweet","timestamp":"2024-11-14T14:58:18.093Z"}
+{"level":"info","message":"Mood updated to depressive (intensity: 0.9750050412437736) with delusions","timestamp":"2024-11-14T15:03:21.103Z"}
+{"level":"info","message":"Starting thread posting process...","timestamp":"2024-11-14T15:03:34.726Z"}
+{"level":"info","message":"Thread part 1 entered","timestamp":"2024-11-14T15:03:50.398Z"}
+{"level":"info","message":"Thread part 2 entered","timestamp":"2024-11-14T15:04:06.995Z"}
+{"level":"info","message":"Thread part 3 entered","timestamp":"2024-11-14T15:04:21.337Z"}
+{"level":"info","message":"Thread part 4 entered","timestamp":"2024-11-14T15:04:38.139Z"}
+{"level":"info","message":"Thread part 5 entered","timestamp":"2024-11-14T15:04:55.164Z"}
+{"level":"info","message":"Thread posted successfully","timestamp":"2024-11-14T15:04:59.235Z"}
+{"level":"info","message":"Starting thread posting process...","timestamp":"2024-11-14T15:12:15.532Z"}
+{"level":"info","message":"Thread part 1 entered","timestamp":"2024-11-14T15:12:29.423Z"}
+{"level":"info","message":"Thread part 2 entered","timestamp":"2024-11-14T15:12:47.346Z"}
+{"level":"info","message":"Thread part 3 entered","timestamp":"2024-11-14T15:13:06.870Z"}
+{"level":"info","message":"Thread part 4 entered","timestamp":"2024-11-14T15:13:27.681Z"}
+{"level":"info","message":"Thread part 5 entered","timestamp":"2024-11-14T15:13:41.666Z"}
+{"level":"info","message":"Thread posted successfully","timestamp":"2024-11-14T15:13:45.744Z"}
+{"level":"info","message":"Checking timeline for interactions...","timestamp":"2024-11-14T15:13:45.745Z"}

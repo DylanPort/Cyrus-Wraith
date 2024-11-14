@@ -1,0 +1,31 @@
+{
+  "name": "cyrus-wraith",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^21.5.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanPort/Cyrus-Wraith.git"
+  },
+  "author": "DylanPort",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DylanPort/Cyrus-Wraith/issues"
+  },
+  "homepage": "https://github.com/DylanPort/Cyrus-Wraith#readme"
+}

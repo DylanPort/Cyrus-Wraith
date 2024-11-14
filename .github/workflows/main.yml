@@ -1,0 +1,29 @@
+name: Cyrus Wraith Bot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/3 * * * *'
+
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+          
+      - name: Run bot
+        env:
+          TWITTER_EMAIL: "xemal63748@opposir.com"
+          TWITTER_PASSWORD: "aranciata1234"
+          TWITTER_USERNAME: "xemal63748@opposir.com"
+        run: |
+          node index.js

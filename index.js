@@ -10,9 +10,9 @@ puppeteer.use(StealthPlugin());
 
 // Configuration
 const TWITTER_URL = 'https://twitter.com/i/flow/login';
-const EMAIL = process.env.TWITTER_EMAIL || 'xemal63748@opposir.com';
-const PASSWORD = process.env.TWITTER_PASSWORD || 'aranciata1234';
-const USERNAME = process.env.TWITTER_USERNAME || 'seekmindtermnal';
+const EMAIL = process.env.TWITTER_EMAIL || 'cyruswraith@gmail.com';
+const PASSWORD = process.env.TWITTER_PASSWORD || 'thisisthepassword';
+const USERNAME = process.env.TWITTER_USERNAME || 'cyruswraith';
 const MODEL_NAME = 'tinyllama';
 const INTERACTION_INTERVAL = {
     MIN: 60 * 1000,    // 1 minute minimum
@@ -113,7 +113,7 @@ async function generateTweet() {
     updateCyrusMood();
     
     try {
-        let prompt = `As a tech-savvy individual with psychological disturbances (mood: ${cyrusState.mood.current}, intensity: ${cyrusState.mood.intensity}), 
+        let prompt = `tech-savvy individual with psychological disturbances (mood: ${cyrusState.mood.current}, intensity: ${cyrusState.mood.intensity}), 
             share a thought that fits in a single tweet (max 230 characters). Be introspective, dark, and nuanced. 
             ${cyrusState.mood.current === 'manic' ? 'Be more energetic and intense.' : 
               cyrusState.mood.current === 'depressive' ? 'Be more melancholic and dark.' : 'Be cryptic and mysterious.'}
@@ -154,7 +154,7 @@ async function generateResponse(tweetContent, userHandle) {
     updateCyrusMood(tweetContent);
     
     try {
-        let prompt = `As a tech-savvy individual with psychological disturbances (mood: ${cyrusState.mood.current}, intensity: ${cyrusState.mood.intensity}), 
+        let prompt = `a tech-savvy individual with psychological disturbances (mood: ${cyrusState.mood.current}, intensity: ${cyrusState.mood.intensity}), 
             reply to this tweet by ${userHandle}: "${tweetContent}". Keep your response under 230 characters. Be introspective, dark, and stay in character.
             ${cyrusState.mood.current === 'manic' ? 'Reply with intense energy.' : 
               cyrusState.mood.current === 'depressive' ? 'Reply with deep melancholy.' : 'Reply with mysterious undertones.'}
